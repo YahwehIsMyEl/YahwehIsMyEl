@@ -1,0 +1,16 @@
+[
+{
+  "modid": "PM",
+  "name": "Pratice Mod",
+  "description": "Mod to help me learn coding and java and forge",
+  "version": "${2.0}",
+  "mcversion": "${1.8.9}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["YahwehIsMyEl"],
+  "credits": "Mr. Crayfish, CJ Minecraft, and Other tutorials I watched",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
