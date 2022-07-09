@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @YahwehIsMyEl
-- 👀 I’m interested in Coding, right now for the most usefull purpose modding Minecraft.
+- 👀 I’m interested in Coding, modeling, video editing, and more. Right now for the most usefull purpose modding and creating in Minecraft.
 - 🌱 I’m currently learning Java.
 - 💞️ I’m looking to collaborate on Minecraft Modding and learning Java.
 - 📫 How to reach me: EasinEmber@gmail.com
